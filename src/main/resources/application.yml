@@ -1,0 +1,14 @@
+server:
+  servlet:
+    context-path: /api
+
+app:
+  datasource:
+    jdbc-url: jdbc:posgresql://127.0.0.1:5432/amigoscodedemo
+    username: patrick
+    password: osofo
+    pool-size: 30
+
+
+
+
